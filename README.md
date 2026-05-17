@@ -28,6 +28,7 @@ An interactive Power BI analytics solution analyzing Seattle's Pronto Cycle Shar
 
 ## 📸 Screenshots
 *Executive Summary — KPI Dashboard*
+Executive Summary.png
 *Weather Impact Analysis*
 *Route & Station Analysis*
 *User Demographics Analysis*
