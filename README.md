@@ -28,10 +28,13 @@ An interactive Power BI analytics solution analyzing Seattle's Pronto Cycle Shar
 
 ## 📸 Screenshots
 *Executive Summary — KPI Dashboard*
-Executive Summary.png
+https://github.com/Maseera1998/pronto-cycle-share-analytics/blob/3b03b20c140bfb012c697dd09aa6558e81759e9a/Executive%20Summary.png
 *Weather Impact Analysis*
+https://github.com/Maseera1998/pronto-cycle-share-analytics/blob/3b03b20c140bfb012c697dd09aa6558e81759e9a/Weather%20Impact.png
 *Route & Station Analysis*
+https://github.com/Maseera1998/pronto-cycle-share-analytics/blob/3b03b20c140bfb012c697dd09aa6558e81759e9a/Route%20analysis.png
 *User Demographics Analysis*
+https://github.com/Maseera1998/pronto-cycle-share-analytics/blob/3b03b20c140bfb012c697dd09aa6558e81759e9a/user%20.png
 
 ## 🚀 How to Open
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop) (free)
