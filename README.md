@@ -27,7 +27,10 @@ An interactive Power BI analytics solution analyzing Seattle's Pronto Cycle Shar
 - Station utilization is highly concentrated in a small number of high-traffic nodes
 
 ## 📸 Screenshots
-*(Add screenshots of each dashboard page here)*
+*Executive Summary — KPI Dashboard*
+*Weather Impact Analysis*
+*Route & Station Analysis*
+*User Demographics Analysis*
 
 ## 🚀 How to Open
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop) (free)
